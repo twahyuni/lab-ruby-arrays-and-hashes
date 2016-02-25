@@ -15,7 +15,7 @@ In order to create your class roster, your task is to write a few methods to int
 
 - Write five methods:
 
-- **The first method** should return either our current list of students, or an empty array if we don't have one yet.This method will also allow us to simply call `students` instead of `@students` when we're in IRB
+- **The first method** should return either our current list of students, or an empty array if we don't have one yet.
 
 - **The second method** should accept data for a new student, create a hash out of the student's information, and add it to a running array of students.
 
